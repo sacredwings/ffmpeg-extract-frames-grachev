@@ -24,6 +24,6 @@
   },
   "dependencies": {
     "ffmpeg-probe": "^1.0.4",
-    "fluent-ffmpeg": "^fluent-ffmpeg-ver-2-1-2"
+    "fluent-ffmpeg-ver-2-1-2": "^0.0.2"
   }
 }
