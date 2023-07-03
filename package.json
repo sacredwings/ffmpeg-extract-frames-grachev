@@ -1,9 +1,9 @@
 {
-  "name": "ffmpeg-extract-frames-ver-2.0.2",
-  "version": "0.0.1",
+  "name": "ffmpeg-extract-frames-ver-2-0-2",
+  "version": "0.0.2",
   "description": "Extracts frames from a video.",
   "main": "index.js",
-  "repository": "https://github.com/sacredwings/ffmpeg-extract-frames-ver-2.0.2.git",
+  "repository": "https://github.com/sacredwings/ffmpeg-extract-frames-ver-2-0-2.git",
   "author": "Alexander Grachev <stronggenius@mail.ru>",
   "license": "MIT",
   "reveal": true,
@@ -24,6 +24,6 @@
   },
   "dependencies": {
     "ffmpeg-probe": "^1.0.4",
-    "fluent-ffmpeg": "^fluent-ffmpeg-ver-2.1.2"
+    "fluent-ffmpeg": "^fluent-ffmpeg-ver-2-1-2"
   }
 }
