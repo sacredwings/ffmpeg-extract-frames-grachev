@@ -1,6 +1,6 @@
 {
   "name": "ffmpeg-extract-frames-ver-2-0-2",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Extracts frames from a video.",
   "main": "index.js",
   "repository": "https://github.com/sacredwings/ffmpeg-extract-frames-ver-2-0-2.git",

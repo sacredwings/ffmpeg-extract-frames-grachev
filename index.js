@@ -1,6 +1,6 @@
 'use strict'
 
-const ffmpeg = require('fluent-ffmpeg')
+const ffmpeg = require('fluent-ffmpeg-ver-2-1-2')
 const path = require('path')
 const probe = require('ffmpeg-probe')
 
